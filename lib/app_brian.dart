@@ -13,7 +13,7 @@ class AppBrian {
         image: 'images/image-3.jpg',
         answer: false),
     Question(
-        text: 'The Earth is flat, not spherical',
+        text: 'The Earth is flat, not spherical?',
         image: 'images/image-4.jpg',
         answer: false),
     Question(
