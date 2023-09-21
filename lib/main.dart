@@ -18,7 +18,7 @@ class examApp extends StatelessWidget {
         backgroundColor: Colors.grey[300],
         appBar: AppBar(
           backgroundColor: Colors.grey,
-          title: Text('exam'),
+          title: Text('Test'),
         ),
         body: Padding(
           padding: const EdgeInsets.all(20.0),
